@@ -24,6 +24,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+
 ### 👨‍💻 About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
@@ -50,10 +51,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
 </p>
 
-<h2 align="left">My GitHub Overview</h2>
+### :fire: My Stats :
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DMacharia&show_icons=true&locale=en" alt="DMacharia" /></p>
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=DMacharia&style=flat-square&color=blue" alt=""/>
 </div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DMacharia&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DMacharia)](https://github.com/anuraghazra/github-readme-stats)
+
