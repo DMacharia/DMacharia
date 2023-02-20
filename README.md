@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Daniel Macharia</h1>
+<h1 align="center">Hi there👋, I'm Daniel</h1>
 
 <!-- SOCIALS. TODO: SWAP OUT YOUR URL AND NAME. -->
 <p align="center" style="float: left;"> 
