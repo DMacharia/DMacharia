@@ -53,7 +53,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DMacharia&show_icons=true&locale=en" alt="DMacharia" /></p>
+
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=DMacharia&style=flat-square&color=blue" alt=""/>
